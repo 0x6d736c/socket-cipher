@@ -1,2 +1,3 @@
-# socket-cipher
-C-language cipher messaging protocol.
+# Socket Cipher
+## Working with sockets in C.
+### A barebones messaging app.
